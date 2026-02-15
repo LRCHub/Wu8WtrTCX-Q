@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "花結び",
+  "base_artist": "栗山夕璃",
+  "createdAt": "2026-02-15T04:10:47.522481Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "花結び",
+      "artist": "栗山夕璃",
+      "has_synced": false,
+      "path": "select/pl_01_花結び_栗山夕璃.txt"
+    }
+  ]
+}
